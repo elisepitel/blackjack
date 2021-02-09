@@ -1,4 +1,4 @@
-# blackjack
+# 🃏 Blackjack
 
 
 ## Blackjack Rules:
